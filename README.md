@@ -3,7 +3,7 @@
 
 <p align="center">
   <kbd>
-<img src="Image"></img>
+<img src="src/assets/images/Portfilo_demo.gif"></img>
   </kbd>
 </p>
 
